@@ -10,8 +10,8 @@ RNL is a reverse number lookup tool which uses whatsapp to find the owner's name
 
 
 # Requirements
-- [] Python3
-- [] Chrome browser
+- [x] Python3
+- [x] Chrome browser
 
 # Installation
 Make sure to install the required packages.
